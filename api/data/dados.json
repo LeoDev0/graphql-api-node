@@ -56,6 +56,22 @@
       "role": 1,
       "createdAt": "2020-09-22T00:00:00.000Z",
       "id": 8
+    },
+    {
+      "nome": "Leonardo",
+      "ativo": true,
+      "email": "leo.80@protonmail.com",
+      "role": 1,
+      "createdAt": "2020-09-22T00:00:00.000Z",
+      "id": 9
+    },
+    {
+      "nome": "Leonardo",
+      "ativo": true,
+      "email": "leo.80@protonmail.com",
+      "role": 2,
+      "createdAt": "2020-09-22T00:00:00.000Z",
+      "id": 10
     }
   ],
   "roles": [
