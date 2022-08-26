@@ -48,6 +48,14 @@
       "email": "leo.80@protonmail.com",
       "role": 1,
       "id": 7
+    },
+    {
+      "nome": "Leonardo",
+      "ativo": true,
+      "email": "leo.80@protonmail.com",
+      "role": 1,
+      "createdAt": "2020-09-22T00:00:00.000Z",
+      "id": 8
     }
   ],
   "roles": [
