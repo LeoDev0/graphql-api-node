@@ -41,6 +41,13 @@
       "ativo": true,
       "email": "m@m.com",
       "role": 2
+    },
+    {
+      "nome": "Leonardo",
+      "ativo": true,
+      "email": "leo.80@protonmail.com",
+      "role": 1,
+      "id": 7
     }
   ],
   "roles": [
