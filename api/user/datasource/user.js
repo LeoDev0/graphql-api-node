@@ -32,9 +32,9 @@ class UsersAPI extends RESTDataSource {
         }
     }
 
-    async updateUser(newData) {
+    async updateUser(id, newData) {
         const role = await this.get(`/roles?type=${newData.role}`)
-        await this.put(`/users/${newData.id}`, {...newData, role: role[0].id})
+        await this.put(`/users/${id}`, {...newData, id: id, role: role[0].id})
         return {
             ...newData,
             role: role[0]
